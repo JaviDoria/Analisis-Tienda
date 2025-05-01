@@ -1,5 +1,7 @@
 # Análisis de KPIs de Tienda con Looker Studio y Google Sheets
 
+![Dashboard](https://github.com/user-attachments/assets/ecd830b0-3766-4f40-8217-cdc549235ab3)
+
 En este proyecto he utilizado **Google Sheets como fuente de datos en la nube** y **Looker Studio (Google Data Studio)** para construir un informe interactivo que permite analizar el comportamiento semanal de una tienda a través de indicadores clave de rendimiento (KPIs).
 
 El objetivo es demostrar cómo se puede trabajar de forma práctica y efectiva en la nube, conectando datos en tiempo real y visualizándolos con herramientas de Business Intelligence.
