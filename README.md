@@ -73,3 +73,11 @@ Demostrar mi capacidad para:
 ✅ Crear dashboards con enfoque práctico y visual  
 ✅ Medir y comparar KPIs clave (ventas, productividad, participación, merma)  
 ✅ Usar herramientas modernas de BI como Looker Studio
+
+---
+
+## Visualización del Dashboard
+
+Este es el enlace del dashboard creado con Looker Studio. Es una visualización sencilla, pero nos ofrece una vista rápida y clara del comportamiento del negocio:
+
+🔗 [Ver Dashboard en Looker Studio](https://lookerstudio.google.com/s/rw1NQMLw_eQ)
