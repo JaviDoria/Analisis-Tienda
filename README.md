@@ -1,7 +1,7 @@
 En este proyecto he cargado datos en utilizando Sheet y estás son las hojas que tengo con los datos que uitilzaré para crear un informe donde de una manera práctica se pueda 
 ver el comportamiento de la tienda y analizar los KPI's .
 
-En esta hoja (Ratios Semana)tenemos los siguientes campos:
+En esta hoja __RATIOS SEMANA__ tenemos los siguientes campos:
 
 * Semana: Indica la semana a la que pertenecen los datos y es el campo que se utilizará como ID.
 * Nº Semana: Nos servirá para tener un orden da la semana y es más que nada para fines de diseño.
@@ -13,3 +13,8 @@ En esta hoja (Ratios Semana)tenemos los siguientes campos:
 * Productividad Real: Es el dato REAL que se ha alcanzado en la semana.  
         __* NOTA: LA PRODUCTIVIDAD es un valor clave que nos indicará como va la tienda ya que es el equilibrio donde dividiremos la cantidad de UNIDADES vendidas entre las HORAS invertidas.__ 
 *    ![image](https://github.com/user-attachments/assets/fe85e07c-ea60-4622-b496-4d2703a08b4a)
+
+En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tembien tenmos los campos:  
+* Familia:  Que nos indica las familias de los productos que analizaremos.
+* Participación: Es el porcentaje que ha alcanzado dicha familia en la semana. 
+![image](https://github.com/user-attachments/assets/bc67cf41-696e-4f50-9fd8-5c2c03b31622)
