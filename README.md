@@ -14,8 +14,9 @@ En esta hoja __RATIOS SEMANA__ tenemos los siguientes campos:
         __* NOTA: LA PRODUCTIVIDAD es un valor clave que nos indicará como va la tienda ya que es el equilibrio donde dividiremos la cantidad de UNIDADES vendidas entre las HORAS invertidas.__ 
   ![image](https://github.com/user-attachments/assets/fe85e07c-ea60-4622-b496-4d2703a08b4a)
 
-En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tembien tenmos los campos:  
+En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tambien tenemos los campos:  
 * Familia:  Que nos indica las familias de los productos que analizaremos.
 * Participación: Es el porcentaje que ha alcanzado dicha familia en la semana.
+          NOTA: Cabe mensionar que la participación no está hecha sobre el 100% ya que hay otros que hemos decidido dejar fuera.
   
 ![image](https://github.com/user-attachments/assets/bc67cf41-696e-4f50-9fd8-5c2c03b31622)
