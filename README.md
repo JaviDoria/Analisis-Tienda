@@ -20,3 +20,11 @@ En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tambien ten
           __NOTA: Cabe mensionar que la participación no está hecha sobre el 100% ya que hay otros que hemos decidido dejar fuera.__
   
 ![image](https://github.com/user-attachments/assets/bc67cf41-696e-4f50-9fd8-5c2c03b31622)
+
+En la hoja __MERMA__ están los datos de el porcentaje de merma de cada família respecto a su venta, al igual que las otras hojas tenemos el campo SEMANA como ID y los otros campos:  
+* Familia:  Que nos indica las familias de los productos que analizaremos.
+* Merma: El porcentaje de merma sobre la venta.
+  
+![image](https://github.com/user-attachments/assets/93d2b0f0-872d-45af-8720-8b1612ad6df4)
+
+También tenemos una hoja __OBJETIVOS MERMA__ que es donde se indican los objetivos a los que debe llegar la tienda.
