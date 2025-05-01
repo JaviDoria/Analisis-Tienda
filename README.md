@@ -1,30 +1,71 @@
-En este proyecto he cargado datos en utilizando Sheet y estás son las hojas que tengo con los datos que uitilzaré para crear un informe donde de una manera práctica se pueda 
-ver el comportamiento de la tienda y analizar los KPI's .
+Análisis de KPIs de Tienda con Looker Studio y Google Sheets
+En este proyecto he utilizado Google Sheets como fuente de datos en la nube y Looker Studio (Google Data Studio) para construir un informe interactivo que permite analizar el comportamiento semanal de una tienda a través de indicadores clave de rendimiento (KPIs).
 
-En esta hoja __RATIOS SEMANA__ tenemos los siguientes campos:
+El objetivo es demostrar cómo se puede trabajar de forma práctica y efectiva en la nube, conectando datos en tiempo real y visualizándolos con herramientas de Business Intelligence.
 
-* Semana: Indica la semana a la que pertenecen los datos y es el campo que se utilizará como ID.
-* Nº Semana: Nos servirá para tener un orden da la semana y es más que nada para fines de diseño.
-* Venta PEP: Es la previsión de la venta para dicha semana.
-* Venta Real: Es el dato de la venta real que se ha conseguido en dicha semana.
-* Horas PEP: Es la previsión de las horas de personal que se necesitará en dicha semana y es un dato clave para medir la productividad de la tienda.
-* Horas Real: Es el dato de las horas reales que se han invertido en la tienda durante la semana.
-* Productividad PEP: Es la previsión de la productividad que se aspira a alcanzar durante la semana.
-* Productividad Real: Es el dato REAL que se ha alcanzado en la semana.  
-        __NOTA: LA PRODUCTIVIDAD es un valor clave que nos indicará como va la tienda ya que es el equilibrio donde dividiremos la cantidad de UNIDADES vendidas entre las HORAS invertidas.__ 
-  ![image](https://github.com/user-attachments/assets/fe85e07c-ea60-4622-b496-4d2703a08b4a)
+Fuentes de datos
+🗂 Hoja: RATIOS SEMANA
+Contiene datos semanales relacionados con ventas, horas trabajadas y productividad:
 
-En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tambien tenemos los campos:  
-* Familia:  Que nos indica las familias de los productos que analizaremos.
-* Participación: Es el porcentaje que ha alcanzado dicha familia en la semana.  
-          __NOTA: Cabe mensionar que la participación no está hecha sobre el 100% ya que hay otros que hemos decidido dejar fuera.__
-  
-![image](https://github.com/user-attachments/assets/bc67cf41-696e-4f50-9fd8-5c2c03b31622)
+Semana: Identificador principal de los datos.
 
-En la hoja __MERMA__ están los datos de el porcentaje de merma de cada família respecto a su venta, al igual que las otras hojas tenemos el campo SEMANA como ID y los otros campos:  
-* Familia:  Que nos indica las familias de los productos que analizaremos.
-* Merma: El porcentaje de merma sobre la venta.
-  
-![image](https://github.com/user-attachments/assets/93d2b0f0-872d-45af-8720-8b1612ad6df4)
+Nº Semana: Orden secuencial de la semana (usado para diseño visual).
 
-También tenemos una hoja __OBJETIVOS MERMA__ que es donde se indican los objetivos a los que debe llegar la tienda.
+Venta PEP: Previsión de ventas para la semana.
+
+Venta Real: Ventas reales obtenidas.
+
+Horas PEP: Previsión de horas de personal necesarias.
+
+Horas Real: Horas realmente trabajadas.
+
+Productividad PEP: Previsión de productividad.
+
+Productividad Real: Productividad alcanzada.
+
+📌 Nota: La productividad es un KPI clave: se calcula como la relación entre unidades vendidas y horas trabajadas.
+
+
+
+🗂 Hoja: PARTICIPACIÓN
+Esta hoja permite analizar la participación semanal de distintas familias de productos:
+
+Semana: Identificador principal.
+
+Familia: Categoría del producto.
+
+Participación: Porcentaje de ventas que representa dicha familia.
+
+📌 Nota: La participación no representa el 100%, ya que algunas familias han sido excluidas del análisis.
+
+
+
+🗂 Hoja: MERMA
+Incluye el porcentaje de merma por familia de producto:
+
+Semana: Identificador principal.
+
+Familia: Categoría del producto.
+
+Merma: Porcentaje de merma sobre la venta.
+
+
+
+🗂 Hoja: OBJETIVOS MERMA
+Define los objetivos de merma que la tienda debe alcanzar por familia de producto.
+
+Herramientas utilizadas
+Google Sheets: Fuente de datos dinámica en la nube.
+
+Looker Studio: Visualización interactiva de KPIs.
+
+Google Cloud (indirectamente): Trabajo 100% en la nube, sin archivos locales.
+
+Objetivo del proyecto
+Demostrar mi capacidad para:
+
+✅ Integrar y analizar datos en la nube
+✅ Crear dashboards con enfoque práctico y visual
+✅ Medir y comparar KPIs clave (ventas, productividad, participación, merma)
+✅ Usar herramientas modernas de BI como Looker Studio
+
