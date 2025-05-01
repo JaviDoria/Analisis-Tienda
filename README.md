@@ -16,7 +16,7 @@ En esta hoja __RATIOS SEMANA__ tenemos los siguientes campos:
 
 En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tambien tenemos los campos:  
 * Familia:  Que nos indica las familias de los productos que analizaremos.
-* Participación: Es el porcentaje que ha alcanzado dicha familia en la semana.
+* Participación: Es el porcentaje que ha alcanzado dicha familia en la semana.  
           NOTA: Cabe mensionar que la participación no está hecha sobre el 100% ya que hay otros que hemos decidido dejar fuera.
   
 ![image](https://github.com/user-attachments/assets/bc67cf41-696e-4f50-9fd8-5c2c03b31622)
