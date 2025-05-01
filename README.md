@@ -11,12 +11,12 @@ En esta hoja __RATIOS SEMANA__ tenemos los siguientes campos:
 * Horas Real: Es el dato de las horas reales que se han invertido en la tienda durante la semana.
 * Productividad PEP: Es la previsión de la productividad que se aspira a alcanzar durante la semana.
 * Productividad Real: Es el dato REAL que se ha alcanzado en la semana.  
-        __* NOTA: LA PRODUCTIVIDAD es un valor clave que nos indicará como va la tienda ya que es el equilibrio donde dividiremos la cantidad de UNIDADES vendidas entre las HORAS invertidas.__ 
+        __NOTA: LA PRODUCTIVIDAD es un valor clave que nos indicará como va la tienda ya que es el equilibrio donde dividiremos la cantidad de UNIDADES vendidas entre las HORAS invertidas.__ 
   ![image](https://github.com/user-attachments/assets/fe85e07c-ea60-4622-b496-4d2703a08b4a)
 
 En la hoja __PARTICIPACIÓN__ tenemos el campo SEMANA que es el ID y tambien tenemos los campos:  
 * Familia:  Que nos indica las familias de los productos que analizaremos.
 * Participación: Es el porcentaje que ha alcanzado dicha familia en la semana.  
-          NOTA: Cabe mensionar que la participación no está hecha sobre el 100% ya que hay otros que hemos decidido dejar fuera.
+          __NOTA: Cabe mensionar que la participación no está hecha sobre el 100% ya que hay otros que hemos decidido dejar fuera.__
   
 ![image](https://github.com/user-attachments/assets/bc67cf41-696e-4f50-9fd8-5c2c03b31622)
